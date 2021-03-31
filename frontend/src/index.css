@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap");
+
+#app {
+  font-family: "Bree Serif";
+  font-size: 25px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+}
+
+/* This is where we can apply global styles */
+
+* {
+  box-sizing: border-box;
+}
